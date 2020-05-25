@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Hôte : localhost:8889
--- Généré le :  lun. 25 mai 2020 à 12:41
+-- Généré le :  lun. 25 mai 2020 à 12:49
 -- Version du serveur :  5.7.26
 -- Version de PHP :  7.4.2
 
@@ -13,8 +13,6 @@ SET time_zone = "+00:00";
 --
 -- Base de données :  `vtc`
 --
-CREATE DATABASE IF NOT EXISTS `vtc` DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
-USE `vtc`;
 
 -- --------------------------------------------------------
 

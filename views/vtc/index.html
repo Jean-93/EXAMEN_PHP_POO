@@ -1,0 +1,14 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+    <a href="{{ base_path }}"><i class="fa fa-arrow-left" aria-hidden="true"></i> retour à la page d'accueil</a>
+    <br>
+    <a class="btn btn-primary" href="{{ base_path ~ '/vtc/create' }}">Créer un conducteur</a>
+
+
+    <h1>Liste des conducteurs</h1>
+
+    <div class="alert alert-secondary"></div>
+    
+{% endblock %}
